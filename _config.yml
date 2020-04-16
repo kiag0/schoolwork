@@ -1,0 +1,21 @@
+# Site settings
+title: SchoolWork
+email: agustokiago@gmail.com
+description: Just a simple system to help students study remotely.
+baseurl: "schoolwork" # 
+url: "" #
+download_button_url: ""
+
+# Social settings
+500px_url: 
+facebook_url: https://www.facebook.com/AgustoKiago
+github_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/augustine-kiago-061455119/
+pinterest_url: 
+twitter_url:  https://twitter.com/kiaggi
+
+# Build settings
+markdown: kramdown
